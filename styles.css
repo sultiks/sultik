@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: url(https://scontent.xx.fbcdn.net/v/t1.15752-9/393104382_1845035512621725_992405379429983996_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=510075&_nc_ohc=WV5lf3_kVqYAX87vFBF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&cb_e2o_trans=q&oh=03_AdQdJ3NLe1-rveD4POj5vr6zXvsghvh9yfp1JcmBfDYmmA&oe=658C4B68) floralwhite center;
+  background-size: cover;
+  backdrop-filter: blur(9px);
+  
+}
+h2{
+  color: aliceblue;
+  font-size: 110%;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+}
+h3{
+  color: rgb(12, 12, 12),red;
+  font-size: 110%;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  filter: blur(0.39485723959px);
+}
+.container {
+  text-align: center;
+  padding: 10px;
+  color: orange;
+}
+
+img {
+  width: 240px;
+  height: auto;
+  margin: 2px;
+  border-radius: 50px;
+}
+.butterflies-container {
+  position: relative;
+  width: 100%;
+  height: 400px;  /* Kelebeklerin uçacağı alanın yüksekliği */
+}
